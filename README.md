@@ -1,9 +1,5 @@
 # Moonbix Python - A Python bot for Binance Moonbix game
 
-| Run with Proxy                   | Run without Proxy   |
-| -------------------------------- | ------------------- |
-| `bot-proxy.py` `data-proxy.json` | `bot.py` `data.txt` |
-
 ## How to use it?
 
 Make sure you have Python 3, pip installed.
@@ -20,16 +16,10 @@ Make sure you have Python 3, pip installed.
    2. `python3 bot-proxy.py` (with proxy)
 
 ```bash
- ▄               ▄  ▄▄▄▄▄▄▄▄▄▄▄  ▄
-▐░▌             ▐░▌▐░░░░░░░░░░░▌▐░▌
- ▐░▌           ▐░▌ ▐░█▀▀▀▀▀▀▀▀▀ ▐░▌
-  ▐░▌         ▐░▌  ▐░▌          ▐░▌
-   ▐░▌       ▐░▌   ▐░▌          ▐░▌
-    ▐░▌     ▐░▌    ▐░▌          ▐░▌
-     ▐░▌   ▐░▌     ▐░▌          ▐░▌
-      ▐░▌ ▐░▌      ▐░▌          ▐░▌
-       ▐░▐░▌       ▐░█▄▄▄▄▄▄▄▄▄ ▐░█▄▄▄▄▄▄▄▄▄
-        ▐░▌        ▐░░░░░░░░░░░▌▐░░░░░░░░░░░▌
-         ▀          ▀▀▀▀▀▀▀▀▀▀▀  ▀▀▀▀▀▀▀▀▀▀▀
-
+██╗   ██╗ ██████╗██╗
+██║   ██║██╔════╝██║
+██║   ██║██║     ██║
+╚██╗ ██╔╝██║     ██║
+ ╚████╔╝ ╚██████╗███████╗
+  ╚═══╝   ╚═════╝╚══════╝
 ```
