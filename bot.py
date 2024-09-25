@@ -57,7 +57,7 @@ class Moonbix:
             for remaining in range(wait_time, 0, -60):
                 base.log(f"{base.yellow}Next run in {remaining // 60} minutes...")
                 time.sleep(60)
-            time.sleep(wait_time)
+            # time.sleep(wait_time)
 
 
 if __name__ == "__main__":
